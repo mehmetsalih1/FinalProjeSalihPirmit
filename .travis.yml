@@ -1,0 +1,5 @@
+language: java
+script:
+  - mvn -f yazilimortamaracFProje/pom.xml clean cobertura:cobertura"
+jdk:
+  - oraclejdk8
