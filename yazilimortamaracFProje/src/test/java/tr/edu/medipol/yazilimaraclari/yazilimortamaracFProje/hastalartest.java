@@ -12,6 +12,11 @@ public class hastalartest   {
 	public void testEkle() {
 		
 	}
+	@Test
+	public void testSilme() {
+		
+	}
+	
 	
 	
 
